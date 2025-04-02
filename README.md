@@ -4,6 +4,10 @@ This project implements a client-server architecture using TCP communication on 
 
 ### This is only a Botnet Base
 
+## Credits
+Coder: FrxstDev / Drxem | [YouTube](https://youtube.com/@Drxem)
+Helper: JoinException
+
 ## Features
 
 1. **TCP Communication**:
